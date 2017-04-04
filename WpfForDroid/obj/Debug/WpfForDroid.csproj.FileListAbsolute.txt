@@ -17,3 +17,22 @@ c:\users\s-pun\documents\visual studio 2017\Projects\WpfForDroid\WpfForDroid\obj
 c:\users\s-pun\documents\visual studio 2017\Projects\WpfForDroid\WpfForDroid\obj\Debug\WpfForDroid.csproj.GenerateResource.Cache
 c:\users\s-pun\documents\visual studio 2017\Projects\WpfForDroid\WpfForDroid\obj\Debug\WpfForDroid.exe
 c:\users\s-pun\documents\visual studio 2017\Projects\WpfForDroid\WpfForDroid\obj\Debug\WpfForDroid.pdb
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\bin\Debug\WpfForDroid.exe.config
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\bin\Debug\WpfForDroid.exe
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\bin\Debug\WpfForDroid.pdb
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\bin\Debug\MaterialDesignColors.dll
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\WpfForDroid.csprojResolveAssemblyReference.cache
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\MainWindow.g.cs
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\App.g.cs
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\WpfForDroid_MarkupCompile.cache
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\WpfForDroid_MarkupCompile.lref
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\App.baml
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\MainWindow.baml
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\WpfForDroid.g.resources
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\WpfForDroid.Properties.Resources.resources
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\WpfForDroid.csproj.GenerateResource.Cache
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\WpfForDroid.exe
+C:\Users\S-Pun\Source\Repos\MaterialArduinoDroidInterface\WpfForDroid\obj\Debug\WpfForDroid.pdb
