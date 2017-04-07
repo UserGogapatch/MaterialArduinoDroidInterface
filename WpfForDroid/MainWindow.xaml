@@ -22,7 +22,7 @@
         <StackPanel Margin="10,90,8,8" VerticalAlignment="Stretch">
             <Button Style="{StaticResource MaterialDesignRaisedLightButton}" Background="#222" Margin="180,100,180,0" Height="48" Click="Button_Click" FontSize="18" VerticalAlignment="Top" Width="Auto" Content="Forward"/>
         </StackPanel>
-        <TextBlock RenderTransformOrigin="0.412,0.283" Panel.ZIndex="-6" Height="60" Margin="-4,89,4,271" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="18" FontFamily="Times New Roman" Foreground="#FF1F1E1E" Background="#FF485661" TextAlignment="Center" FontWeight="Bold"><Run Text="Some info"/></TextBlock>
+        <TextBlock RenderTransformOrigin="0.412,0.283" Panel.ZIndex="-6" Height="60" Margin="228,0,213,272" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="18" FontFamily="Times New Roman" Foreground="#FF1F1E1E" Background="#FF485661" TextAlignment="Center" FontWeight="Bold"><Run Text="Some info"/></TextBlock>
         <Button x:Name="Button2_Copy" Content="Button" Margin="221,286,221,102" VerticalAlignment="Center" RenderTransformOrigin="0.47,0.346"/>
         <Button Content="Button" Margin="357,212,85,176" Height="Auto"/>
         <Button x:Name="Button2" Content="Button" Margin="223,152,219,236" VerticalAlignment="Center" Background="#FFF87060"/>
