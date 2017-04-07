@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfForDroid"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="525"
+        Title="MainWindow"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
         TextElement.FontWeight="Regular"
@@ -13,15 +13,28 @@
         TextOptions.TextFormattingMode="Ideal"
         TextOptions.TextRenderingMode="Auto"
         Background="{DynamicResource MaterialDesignPaper}"
-        FontFamily="{DynamicResource MaterialDesignFont}">
+        FontFamily="{DynamicResource MaterialDesignFont}" MinHeight="400" MinWidth="500" Width="500" Height="450">
     <Grid HorizontalAlignment="Center" Background="#aaa" Width="517">
         <materialDesign:ColorZone Background="#222" Height="90"></materialDesign:ColorZone>
         <materialDesign:Card Padding="16" Margin="10,8,8,0" Height="64">
             <TextBlock Style="{DynamicResource MaterialDesignTitleTextBlock}">Material Arduino Droid Interface</TextBlock>
         </materialDesign:Card>
         <StackPanel Margin="10,90,8,8" VerticalAlignment="Stretch">
-            <Button Style="{StaticResource MaterialDesignRaisedLightButton}" Background="#222" Margin="180,8,180,0" Height="48" Click="Button_Click" FontSize="18" VerticalAlignment="Top" Width="Auto">Forward</Button>
+            <Button Style="{StaticResource MaterialDesignRaisedLightButton}" Background="#222" Margin="180,100,180,0" Height="48" Click="Button_Click" FontSize="18" VerticalAlignment="Top" Width="Auto" Content="Forward"/>
         </StackPanel>
-        <TextBlock Foreground="#fff">Some info</TextBlock>
+        <TextBlock RenderTransformOrigin="0.412,0.283" Panel.ZIndex="-6" Height="60" Margin="-4,89,4,271" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="18" FontFamily="Times New Roman" Foreground="#FF1F1E1E" Background="#FF485661" TextAlignment="Center" FontWeight="Bold"><Run Text="Some info"/></TextBlock>
+        <Button x:Name="Button2_Copy" Content="Button" Margin="221,286,221,102" VerticalAlignment="Center" RenderTransformOrigin="0.47,0.346"/>
+        <Button Content="Button" Margin="357,212,85,176" Height="Auto"/>
+        <Button x:Name="Button2" Content="Button" Margin="223,152,219,236" VerticalAlignment="Center" Background="#FFF87060"/>
+        <Button x:Name="Left_1" Content="Button" Width="105" Height="37" RenderTransformOrigin="0.529,0.353" HorizontalContentAlignment="Center" Margin="54,0,0,161" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Bottom" Padding="16,4,20,4">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="360.561"/>
+                    <TranslateTransform X="0.056" Y="0.029"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
     </Grid>
 </Window>

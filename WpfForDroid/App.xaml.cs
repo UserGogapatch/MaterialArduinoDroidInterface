@@ -10,6 +10,7 @@ namespace WpfForDroid
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
+    /// ВСе норм
     /// </summary>
     public partial class App : Application
     {
